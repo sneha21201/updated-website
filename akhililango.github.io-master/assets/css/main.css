@@ -1680,6 +1680,14 @@ details > p {
 
 /* Button */
 
+.btn1:hover {
+	opacity: 1;
+	background-color:rgb(96, 98, 100);
+	border-radius:  4rem;
+	
+
+}
+
 	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
